@@ -1,0 +1,18 @@
+body {
+    background-image: url("https://previews.123rf.com/images/notkoo2008/notkoo20081506/notkoo2008150603197/40742944-calculadora-de-dibujos-animados-patr%C3%B3n-de-fondo-sin-fisuras.jpg");
+}
+
+#contenedor {
+    width: 100%;
+    text-align: center;
+    overflow: hidden;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#style {
+    border-radius: 12px;
+    border: 12px;
+}
